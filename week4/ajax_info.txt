@@ -1,1 +1,0 @@
-<p>The following example shows to use the default configuration!!</p>
